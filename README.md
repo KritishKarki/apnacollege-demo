@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Kritish Karki
+Author - Kritish Jung Karki (Apna College)
